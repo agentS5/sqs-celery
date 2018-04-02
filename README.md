@@ -5,4 +5,4 @@ Process SQS queue using Celery
 ==================
 
 --cd notifications
---python manage.py runserver 0.0.0.0:<<portname>
+--python manage.py runserver 0.0.0.0:portname
